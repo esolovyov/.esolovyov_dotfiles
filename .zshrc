@@ -41,3 +41,6 @@ PATH=$PATH:$HOME/.rvm/bin:/usr/local/share/python # Add RVM to PATH for scriptin
 export PATH=$PATH:/usr/local/deployd/bin:/usr/local/share/npm/bin/
 
 __rvm_project_rvmrc
+
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
